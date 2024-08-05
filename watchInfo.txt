@@ -1,0 +1,5 @@
+Brand: boatwavw
+Model: xx
+Category: smart
+Price: 2000.0
+Warranty: 10 months
